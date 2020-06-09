@@ -31,3 +31,5 @@ aliceFullKey=Alice.generate_full_key(bobPartialKey)
 print(aliceFullKey) #75
 bobFullKey=Bob.generate_full_key(alicePartialKey)
 print(bobFullKey) #75
+
+# sari bntak
